@@ -6,10 +6,12 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color:#A24AF3 ;
+    background-image: url('img/bank.jpg');
     color: white;
 }
-
+#login-area h1{
+    color: #323742;
+}
 .submit-area{
     
     margin: auto;
